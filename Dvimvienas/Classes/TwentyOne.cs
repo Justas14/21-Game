@@ -140,20 +140,9 @@ namespace Dvimvienas
                 }
                 else
                 {
-                    Console.WriteLine("Your guess was not correct!");
-                    
-                }
-
-
-
-
-
-
-            }
-            
-
-
-
+                    Console.WriteLine("Your guess was not correct!");                   
+                }          
+            }            
         }
 
         private static readonly Random getrandom = new Random();
